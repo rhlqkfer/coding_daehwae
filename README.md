@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @offer-korean
+- 👋 Hi, I’m @rhlqkfer
 - 👀 I’m interested in ... killing python
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... NASA
